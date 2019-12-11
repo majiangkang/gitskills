@@ -1,5 +1,3 @@
-# gitskills
-
 Jupyter Notebook
 Binomial_Lattice_Calls_Puts
 Last Checkpoint: 09/27/2019
@@ -119,3 +117,5 @@ import matplotlib.pyplot as plt
 %matplotlib inline
 plt.plot(mylist, myoptions)
 [<matplotlib.lines.Line2D at 0x1f67314c2b0>]
+
+​
